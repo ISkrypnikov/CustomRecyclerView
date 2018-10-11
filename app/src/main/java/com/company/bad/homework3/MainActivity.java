@@ -10,8 +10,8 @@ import android.support.v7.widget.helper.ItemTouchHelper;
 import android.view.View;
 
 import com.company.bad.homework3.adapter.WorkerAdapter;
-import com.company.bad.homework3.calback.CustomDiffUtilCallback;
-import com.company.bad.homework3.calback.CustomItemTouchHelperCallback;
+import com.company.bad.homework3.callback.CustomDiffUtilCallback;
+import com.company.bad.homework3.callback.CustomItemTouchHelperCallback;
 import com.company.bad.homework3.data.Worker;
 import com.company.bad.homework3.data.WorkerGenerator;
 import com.company.bad.homework3.decoration.CustomItemDecoration;

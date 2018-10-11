@@ -1,4 +1,4 @@
-package com.company.bad.homework3.calback;
+package com.company.bad.homework3.callback;
 
 import android.support.v7.util.DiffUtil;
 
